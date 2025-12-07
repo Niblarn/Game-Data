@@ -1,0 +1,20 @@
+{
+  "Owner": {
+    "GroupId": 33255692,
+    "GroupRanks": [255],
+    "UserIDs": [1],
+    "Usernames": ["Elyethebeast32", "Niblarn"]
+  },
+  "Admin": {
+    "GroupId": 33255692,
+    "GroupRanks": [254],
+    "UserIDs": [1],
+    "Usernames": ["Roblox"]
+  },
+  "Patner": {
+    "GroupId": 33255692,
+    "GroupRanks": [255, 254],
+    "UserIDs": [1],
+    "Usernames": ["RandomCroco", "sandy555783"]
+  }
+}
