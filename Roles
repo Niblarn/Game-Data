@@ -3,18 +3,18 @@
     "GroupId": 33255692,
     "GroupRanks": [255],
     "UserIDs": [1],
-    "Usernames": ["Elyethebeast32"]
+    "Usernames": ["Niblarn"]
   },
   "Admin": {
     "GroupId": 33255692,
     "GroupRanks": [254],
     "UserIDs": [1],
-    "Usernames": ["Roblox", "Niblarn"]
+    "Usernames": ["jessey101killer"]
   },
   "Patner": {
     "GroupId": 33255692,
     "GroupRanks": [255, 254],
     "UserIDs": [1],
-    "Usernames": ["RandomCroco", "sandy555783"]
+    "Usernames": []
   }
 }
